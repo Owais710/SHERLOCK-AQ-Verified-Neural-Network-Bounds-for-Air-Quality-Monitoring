@@ -314,17 +314,6 @@ where `u*` is the true maximum and `δ` is the tolerance parameter.
 
 ---
 
-## References
-
-Dutta et al., 2018
-
-Additional references:
-- Katz et al. (2017) — Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks
-- LeCun, Bengio & Hinton (2015) — Deep Learning (Nature)
-- Bunel et al. (2017) — Piecewise Linear Neural Network Verification: A Comparative Study
-
----
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
