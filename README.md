@@ -316,16 +316,7 @@ where `u*` is the true maximum and `δ` is the tolerance parameter.
 
 ## References
 
-```bibtex
-@inproceedings{dutta2018output,
-  title     = {Output Range Analysis for Deep Feedforward Neural Networks},
-  author    = {Dutta, Souradeep and Jha, Susmit and
-               Sankaranarayanan, Sriram and Tiwari, Ashish},
-  booktitle = {NASA Formal Methods (NFM 2018)},
-  publisher = {Springer},
-  year      = {2018}
-}
-```
+Dutta et al., 2018
 
 Additional references:
 - Katz et al. (2017) — Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks
