@@ -8,7 +8,7 @@
 
 This project addresses a fundamental question in AI safety:
 
-> **Can you mathematically prove what outputs a neural network will produce — not just test it on samples?**
+> **Can you mathematically prove what outputs a neural network will produce not just test it on samples?**
 
 Standard machine learning evaluation relies on test set performance. But for safety-critical systems, "it worked on the test set" is not enough. A neural network deployed in a real environment might encounter inputs it was never tested on, and there is no guarantee its predictions stay within safe bounds.
 
